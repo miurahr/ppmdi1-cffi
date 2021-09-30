@@ -1,0 +1,12 @@
+include *.rst
+include *.toml
+include LICENSE
+recursive-include src *.py
+recursive-include src *.c
+recursive-include src *.h
+recursive-include src *.pyi
+recursive-include src *.typed
+recursive-include tests *.py
+recursive-include tests *.csv
+recursive-include tools *.cpp
+recursive-include tools *.sh
