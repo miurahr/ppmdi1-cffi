@@ -16,4 +16,5 @@ License
 
 * Copyright (C) 2003 Abbrevia
 
-MPL 1.1
+A library is distributed under MPL 2.0 without combination of GNU GPL.
+A original C library is distributed under MPL-1.1 then there is no compatibility with GPL.
