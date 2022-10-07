@@ -12,7 +12,7 @@ jobs:
     name: Test on Python ${{ matrix.python-version }} (${{ matrix.os }})
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3.1.0
         with:
           fetch-depth: 20
       - name: Set up Python 🐍
